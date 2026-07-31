@@ -18,5 +18,5 @@ Add `<img>` in the hero alongside the terminal card.
 Search for `app.netlify.com/teams/emilywangah/projects` and replace each 
 with the specific Netlify live URL for that project.
 
-## Certifications — when you receive Vilnius / UJ certs
+## Certifications — when i receive Vilnius / UJ certs
 Find the two `cert-pending` cards and remove the `cert-pending` class + change ⏳ to 🏆.
