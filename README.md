@@ -1,6 +1,6 @@
 # Emily Batubaja — Portfolio v2 (Single Page)
 
-Single `index.html` file — no build tools, no frameworks, no dependencies beyond Google Fonts.
+Single `index.html` file, no build tools, no frameworks, no dependencies beyond Google Fonts.
 Works immediately on GitHub Pages.
 
 ## Deploy to GitHub Pages
